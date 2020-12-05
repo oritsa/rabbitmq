@@ -1,0 +1,8 @@
+database:
+  driver: ODBC Driver 13 for SQL Server
+  host: <host>
+  database: RabbitMQ_db
+  autocommit: False
+  uid: <user>
+  pwd: <password>
+
